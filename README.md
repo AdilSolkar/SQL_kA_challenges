@@ -1,1 +1,1 @@
-# SQL_kA_challenges
+# SQL_khanAcademy_challenges
